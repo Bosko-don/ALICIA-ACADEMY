@@ -1,0 +1,6 @@
+{
+  "name": "Alicia Academy",
+  "description": "Premium modern school website for Alicia Academy, a warm and welcoming community primary school in Kenya, fostering academic excellence and inspiring pupil success.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
